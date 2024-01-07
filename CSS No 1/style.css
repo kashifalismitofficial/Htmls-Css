@@ -1,0 +1,112 @@
+
+.sky_01{
+    background-color: #2A84C5;
+    margin: 0%;
+    padding: 6px; 
+    color: white;
+}
+.sky_02{
+    background-color: #2A92D0;
+    margin: 0%;
+    margin-left: 2%;
+    padding: 6px;
+    color: white;
+}
+.sky_03{
+    background-color: #1B9DD8;
+    margin: 0%;
+    margin-left: 4%;
+    padding: 6px;
+    color: white;
+}
+.sky_04{
+    background-color: #36A9DF;
+    margin: 0%;
+    margin-left: 6%;
+    padding: 6px;
+    color: white;
+}
+.sky_05{
+    background-color: #55B6E6;
+    margin: 0%;
+    margin-left: 8%;
+    padding: 6px;
+    color: white;
+}
+.sky_06{
+    background-color: #6FC1EB;
+    margin: 0%;
+    margin-left: 10%;
+    padding: 6px;
+    color: white;
+}
+.sky_07{
+    background-color: #8ECAEE;
+    margin: 0%;
+    margin-left: 12%;
+    padding: 6px;
+    color: white;
+}
+.green{
+    background-color: #1AB585;
+    margin: 0%;
+    margin-left: 14%;
+    padding: 6px;
+    color: white;
+}
+.pink_01{
+    background-color: #F5B1CF;
+    margin: 0%;
+    margin-left: 12%;
+    padding: 6px;
+    color: white;
+}
+.pink_02{
+    background-color: #F49EC2;
+    margin: 0%;
+    margin-left: 10%;
+    padding: 6px;
+    color: white;
+}
+.pink_03{
+    background-color: #F28CB4;
+    margin: 0%;
+    margin-left: 8%;
+    padding: 6px;
+    color: white;
+}
+.pink_04{
+    background-color: #F179A6;
+    margin: 0%;
+    margin-left: 6%;
+    padding: 6px;
+    color: white;
+}
+.pink_05{
+    background-color: #F16A97;
+    margin: 0%;
+    margin-left: 4%;
+    padding: 6px;
+    color: white;
+}
+.pink_06{
+    background-color: #F0588B;
+    margin: 0%;
+    margin-left: 2%;
+    padding: 6px;
+    color: white;
+}
+.pink_07{
+    background-color: #EE337F;
+    margin: 0%;
+    padding: 6px;
+    color: white;
+}
+#head-one{
+ size: 50px;
+background-color: #DFDFDF;
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 10px;
+padding-top:  20px;
+padding-bottom:  20px;
+}
